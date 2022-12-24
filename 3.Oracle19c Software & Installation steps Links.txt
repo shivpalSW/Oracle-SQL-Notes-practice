@@ -1,0 +1,19 @@
+Oracle19c Software & Installation steps Links:
+======================================
+First of all download the software media file. You can download the media from:
+
+https://www.oracle.com/database/technologies/oracle19c-windows-downloads.html
+
+Oracle Database 19c (19.3) for Microsoft Windows x64 (64-bit)
+Software file name : WINDOWS.X64_193000_db_home.zip (3,105,763,999 bytes)
+
+Oracle 19c Software Links:
+=======================
+
+		STEP1: DOWNLOAD
+		STEP2: UNZIP / EXTRACT
+		STEP3: FOLLOW THE FOLLOWING VIDEO
+
+
+Video Link : https://drive.google.com/file/d/1YMnmRg9wjhAfgsnZfBm0CTNVtzSxt53X/view
+
